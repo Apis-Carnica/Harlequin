@@ -1,0 +1,12 @@
+# Make sure to change the name of this template to .env when running in a
+# production capacity.
+
+DISCORD_TOKEN=""
+WELCOME_MESSAGE=""
+GUILD_ID=""
+ROLE_NAME=""
+EMOJI=""
+BOT_EMAIL=""
+EMAIL_PASSWD=""
+DB_USER=""
+DB_PASSWD=""
